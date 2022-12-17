@@ -1,0 +1,47 @@
+{
+  "ok": true,
+  "result": [
+    {
+      "update_id": 677777046,
+      "message": {
+        "message_id": 338,
+        "from": {
+          "id": 196584706,
+          "is_bot": false,
+          "first_name": "Denis",
+          "username": "fferses",
+          "language_code": "uk"
+        },
+        "chat": {
+          "id": 196584706,
+          "first_name": "Denis",
+          "username": "fferses",
+          "type": "private"
+        },
+        "date": 1662100546,
+        "text": "H"
+      }
+    },
+    {
+      "update_id": 677777047,
+      "message": {
+        "message_id": 339,
+        "from": {
+          "id": 196584706,
+          "is_bot": false,
+          "first_name": "Denis",
+          "username": "fferses",
+          "language_code": "uk"
+        },
+        "chat": {
+          "id": 196584706,
+          "first_name": "Denis",
+          "username": "fferses",
+          "type": "private"
+        },
+        "date": 1662100694,
+        "text": "B"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "ok": true,
+  "result": {
+    "message_id": 357,
+    "from": {
+      "id": 603175634,
+      "is_bot": true,
+      "first_name": "pynbot",
+      "username": "pyanmybot"
+    },
+    "chat": {
+      "id": 196584706,
+      "first_name": "Denis",
+      "username": "fferses",
+      "type": "private"
+    },
+    "date": 1670084592,
+    "text": "РОБЕ"
+  }
+}
